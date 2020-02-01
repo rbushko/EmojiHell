@@ -7,8 +7,6 @@ public class EmojiHelper : MonoBehaviour
     private EmojiType type;
     private List<string> selections;
 
-    public SpriteRenderer sprite;
-
     public void Init(EmojiType type, List<string> selections)
     {
         this.type = type;
@@ -19,13 +17,14 @@ public class EmojiHelper : MonoBehaviour
 
     private void SetSprite()
     {
+        SpriteRenderer spriteRenderer = gameObject.GetComponent<SpriteRenderer>();
         switch(type)
         {
             case EmojiType.GOOD:
-                // Set good emoji sprite
+                spriteRenderer.sprite = AssetManager.GetEmoji(0);
                 return;
             case EmojiType.BAD:
-                // Bad emoji sprite
+                spriteRenderer.sprite = AssetManager.GetEmoji(20);
                 return;
             default:
                 Debug.LogError("Emoji type was not good or bad");
