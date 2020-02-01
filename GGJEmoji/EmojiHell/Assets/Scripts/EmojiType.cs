@@ -4,7 +4,8 @@ using UnityEngine;
 
 public enum EmojiType
 {
-    NEUTRAL,
     GOOD,
-    BAD
+    BAD,
+    
+    NEUTRAL
 }

@@ -21,10 +21,10 @@ public class EmojiHelper : MonoBehaviour
         switch(type)
         {
             case EmojiType.GOOD:
-                spriteRenderer.sprite = AssetManager.GetEmoji(0);
+                spriteRenderer.sprite = AssetManager.GetEmoji(10);
                 return;
             case EmojiType.BAD:
-                spriteRenderer.sprite = AssetManager.GetEmoji(20);
+                spriteRenderer.sprite = AssetManager.GetEmoji(90);
                 return;
             default:
                 Debug.LogError("Emoji type was not good or bad");
