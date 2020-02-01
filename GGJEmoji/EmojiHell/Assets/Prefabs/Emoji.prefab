@@ -12,6 +12,7 @@ GameObject:
   - component: {fileID: 7592397412902209063}
   - component: {fileID: 7183578350623141136}
   - component: {fileID: 1740016557569669706}
+  - component: {fileID: -2114615377213376894}
   m_Layer: 0
   m_Name: Emoji
   m_TagString: Untagged
@@ -69,8 +70,8 @@ SpriteRenderer:
   m_AutoUVMaxDistance: 0.5
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: -2036727567
+  m_SortingLayer: 3
   m_SortingOrder: 0
   m_Sprite: {fileID: -4585610747836987042, guid: f9da55f08dcdbde488d44fc224592fea,
     type: 3}
@@ -121,3 +122,15 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &-2114615377213376894
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8876781575839258162}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ebe24a41a0ece834ea469ecc163aa836, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
