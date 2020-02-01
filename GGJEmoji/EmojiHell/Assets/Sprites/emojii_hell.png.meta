@@ -1,0 +1,4375 @@
+fileFormatVersion: 2
+guid: f9da55f08dcdbde488d44fc224592fea
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6163952067414656612
+    second: emojii_hell_0
+  - first:
+      213: -7812046669384523492
+    second: emojii_hell_1
+  - first:
+      213: -3218673333637508984
+    second: emojii_hell_2
+  - first:
+      213: 6789929636401693970
+    second: emojii_hell_3
+  - first:
+      213: -5757438024289596290
+    second: emojii_hell_4
+  - first:
+      213: 8329261417584923405
+    second: emojii_hell_5
+  - first:
+      213: -4585610747836987042
+    second: emojii_hell_6
+  - first:
+      213: 5786231492986480005
+    second: emojii_hell_7
+  - first:
+      213: 3980950683245852348
+    second: emojii_hell_8
+  - first:
+      213: 1915439814390155163
+    second: emojii_hell_9
+  - first:
+      213: 2921906955588247375
+    second: emojii_hell_10
+  - first:
+      213: -3500742703010027621
+    second: emojii_hell_11
+  - first:
+      213: 7117235646971984523
+    second: emojii_hell_12
+  - first:
+      213: -3216055888368072658
+    second: emojii_hell_13
+  - first:
+      213: 5037543050090309679
+    second: emojii_hell_14
+  - first:
+      213: 3248137505247037442
+    second: emojii_hell_15
+  - first:
+      213: 8757619326974037032
+    second: emojii_hell_16
+  - first:
+      213: -1544132973445011211
+    second: emojii_hell_17
+  - first:
+      213: -8731312076843836618
+    second: emojii_hell_18
+  - first:
+      213: -1245675820066936866
+    second: emojii_hell_19
+  - first:
+      213: 7330452622184365174
+    second: emojii_hell_20
+  - first:
+      213: -2699536699883470368
+    second: emojii_hell_21
+  - first:
+      213: -8406082126564697012
+    second: emojii_hell_22
+  - first:
+      213: 4842478039884150092
+    second: emojii_hell_23
+  - first:
+      213: -5547830089543027961
+    second: emojii_hell_24
+  - first:
+      213: 6894872046725379336
+    second: emojii_hell_25
+  - first:
+      213: 8749253845857378706
+    second: emojii_hell_26
+  - first:
+      213: 1123277146751569943
+    second: emojii_hell_27
+  - first:
+      213: -858620815008157436
+    second: emojii_hell_28
+  - first:
+      213: -2671575155955036793
+    second: emojii_hell_29
+  - first:
+      213: -1649040581710372185
+    second: emojii_hell_30
+  - first:
+      213: -1622828426244447878
+    second: emojii_hell_31
+  - first:
+      213: 5795991565687374277
+    second: emojii_hell_32
+  - first:
+      213: -8597322115469825153
+    second: emojii_hell_33
+  - first:
+      213: -3236460389083957170
+    second: emojii_hell_34
+  - first:
+      213: 6275637939418803433
+    second: emojii_hell_35
+  - first:
+      213: -8471716738549112670
+    second: emojii_hell_36
+  - first:
+      213: -8293894663168789313
+    second: emojii_hell_37
+  - first:
+      213: 3173422300253428168
+    second: emojii_hell_38
+  - first:
+      213: -3951994068931454875
+    second: emojii_hell_39
+  - first:
+      213: -969114065519142182
+    second: emojii_hell_40
+  - first:
+      213: 7011105109621292669
+    second: emojii_hell_41
+  - first:
+      213: -8388424371200242972
+    second: emojii_hell_42
+  - first:
+      213: 5902145964783966410
+    second: emojii_hell_43
+  - first:
+      213: -8598909297602623882
+    second: emojii_hell_44
+  - first:
+      213: 386923414315596211
+    second: emojii_hell_45
+  - first:
+      213: 4991076036993501273
+    second: emojii_hell_46
+  - first:
+      213: -1764069653581956572
+    second: emojii_hell_47
+  - first:
+      213: -1302123947790460335
+    second: emojii_hell_48
+  - first:
+      213: -5380175607624505239
+    second: emojii_hell_49
+  - first:
+      213: -2072025812999349088
+    second: emojii_hell_50
+  - first:
+      213: 3350533605144120443
+    second: emojii_hell_51
+  - first:
+      213: -7870222524790089374
+    second: emojii_hell_52
+  - first:
+      213: -8358470221703119304
+    second: emojii_hell_53
+  - first:
+      213: 6882252049657828723
+    second: emojii_hell_54
+  - first:
+      213: 712978349062631022
+    second: emojii_hell_55
+  - first:
+      213: -218768170436745176
+    second: emojii_hell_56
+  - first:
+      213: 5473958970429047401
+    second: emojii_hell_57
+  - first:
+      213: 5778251243089394802
+    second: emojii_hell_58
+  - first:
+      213: -749411624099625573
+    second: emojii_hell_59
+  - first:
+      213: 908297439609776059
+    second: emojii_hell_60
+  - first:
+      213: 6809628770944039191
+    second: emojii_hell_61
+  - first:
+      213: 8304422011643944739
+    second: emojii_hell_62
+  - first:
+      213: -718419044070502593
+    second: emojii_hell_63
+  - first:
+      213: 7275941398683427588
+    second: emojii_hell_64
+  - first:
+      213: -5736348885019524577
+    second: emojii_hell_65
+  - first:
+      213: 8115871211780560530
+    second: emojii_hell_66
+  - first:
+      213: -1890845875783984568
+    second: emojii_hell_67
+  - first:
+      213: -9132420189302848465
+    second: emojii_hell_68
+  - first:
+      213: -5986330874355794399
+    second: emojii_hell_69
+  - first:
+      213: -1000084965077828572
+    second: emojii_hell_70
+  - first:
+      213: -9050758052074686646
+    second: emojii_hell_71
+  - first:
+      213: 8401701708304177387
+    second: emojii_hell_72
+  - first:
+      213: 3357659041233353091
+    second: emojii_hell_73
+  - first:
+      213: 878448204394784624
+    second: emojii_hell_74
+  - first:
+      213: -133523092632708455
+    second: emojii_hell_75
+  - first:
+      213: -2969255281779742495
+    second: emojii_hell_76
+  - first:
+      213: -8828631424331116150
+    second: emojii_hell_77
+  - first:
+      213: -7154183641558528028
+    second: emojii_hell_78
+  - first:
+      213: -3160023350282345107
+    second: emojii_hell_79
+  - first:
+      213: 3716968455315096074
+    second: emojii_hell_80
+  - first:
+      213: -1471156969070889752
+    second: emojii_hell_81
+  - first:
+      213: -6834574966615018332
+    second: emojii_hell_82
+  - first:
+      213: 2405555311242336760
+    second: emojii_hell_83
+  - first:
+      213: -3661687757875576214
+    second: emojii_hell_84
+  - first:
+      213: 4136117669622925861
+    second: emojii_hell_85
+  - first:
+      213: -625152043252954316
+    second: emojii_hell_86
+  - first:
+      213: 2576524817658365490
+    second: emojii_hell_87
+  - first:
+      213: 307427332628956161
+    second: emojii_hell_88
+  - first:
+      213: 1785333596007314788
+    second: emojii_hell_89
+  - first:
+      213: 3881579806860582994
+    second: emojii_hell_90
+  - first:
+      213: -7062690837366751417
+    second: emojii_hell_91
+  - first:
+      213: 9073207883241668918
+    second: emojii_hell_92
+  - first:
+      213: -2056176581515240160
+    second: emojii_hell_93
+  - first:
+      213: -9210836082879734448
+    second: emojii_hell_94
+  - first:
+      213: -7556975302929495217
+    second: emojii_hell_95
+  - first:
+      213: -6702921221522750772
+    second: emojii_hell_96
+  - first:
+      213: -6168599025003305029
+    second: emojii_hell_97
+  - first:
+      213: -9008102516721891002
+    second: emojii_hell_98
+  - first:
+      213: 7895151396139847416
+    second: emojii_hell_99
+  - first:
+      213: -7007446350282828595
+    second: emojii_hell_100
+  - first:
+      213: 5623715204640579069
+    second: emojii_hell_101
+  - first:
+      213: -6303011035687471340
+    second: emojii_hell_102
+  - first:
+      213: 6520504731618481861
+    second: emojii_hell_103
+  - first:
+      213: 7068888369837693225
+    second: emojii_hell_104
+  - first:
+      213: -2914023433863247515
+    second: emojii_hell_105
+  - first:
+      213: 599974612399757026
+    second: emojii_hell_106
+  - first:
+      213: 2722201124094215178
+    second: emojii_hell_107
+  - first:
+      213: 1548312959335026421
+    second: emojii_hell_108
+  - first:
+      213: -3903242826914568806
+    second: emojii_hell_109
+  - first:
+      213: -7314575703418664692
+    second: emojii_hell_110
+  - first:
+      213: 8849371864333265265
+    second: emojii_hell_111
+  - first:
+      213: 1227381892781052401
+    second: emojii_hell_112
+  - first:
+      213: 6941043781242551321
+    second: emojii_hell_113
+  - first:
+      213: -6874338778698427706
+    second: emojii_hell_114
+  - first:
+      213: 3185879908645089937
+    second: emojii_hell_115
+  - first:
+      213: -5620007227052540889
+    second: emojii_hell_116
+  - first:
+      213: -3453541690363777906
+    second: emojii_hell_117
+  - first:
+      213: -6222282457255119332
+    second: emojii_hell_118
+  - first:
+      213: -882776977427593079
+    second: emojii_hell_119
+  - first:
+      213: -7093648182893151181
+    second: emojii_hell_120
+  - first:
+      213: -4118356273383653980
+    second: emojii_hell_121
+  - first:
+      213: -6650040685204927675
+    second: emojii_hell_122
+  - first:
+      213: 665196223130991870
+    second: emojii_hell_123
+  - first:
+      213: 5503795438680554396
+    second: emojii_hell_124
+  - first:
+      213: 8776463310869061714
+    second: emojii_hell_125
+  - first:
+      213: 43082030789990464
+    second: emojii_hell_126
+  - first:
+      213: -4897336777748295776
+    second: emojii_hell_127
+  - first:
+      213: -939988579252566888
+    second: emojii_hell_128
+  - first:
+      213: 6816780452558596959
+    second: emojii_hell_129
+  - first:
+      213: 617516391981675941
+    second: emojii_hell_130
+  - first:
+      213: 7085288035868391613
+    second: emojii_hell_131
+  - first:
+      213: -6052306877683529151
+    second: emojii_hell_132
+  - first:
+      213: -5213300618308688586
+    second: emojii_hell_133
+  - first:
+      213: 5647890810758876120
+    second: emojii_hell_134
+  - first:
+      213: 5895442280112106977
+    second: emojii_hell_135
+  - first:
+      213: 3651133132788531095
+    second: emojii_hell_136
+  - first:
+      213: 7356452827255181761
+    second: emojii_hell_137
+  - first:
+      213: -5783164373244509274
+    second: emojii_hell_138
+  - first:
+      213: 4187037822221015640
+    second: emojii_hell_139
+  - first:
+      213: 636018633696460992
+    second: emojii_hell_140
+  - first:
+      213: 6587288503685723512
+    second: emojii_hell_141
+  - first:
+      213: 761188171914672186
+    second: emojii_hell_142
+  - first:
+      213: -8280484290044822487
+    second: emojii_hell_143
+  - first:
+      213: -3593724359423199935
+    second: emojii_hell_144
+  - first:
+      213: -1926723106564946524
+    second: emojii_hell_145
+  - first:
+      213: 5529279407480228873
+    second: emojii_hell_146
+  - first:
+      213: -5206000555752050684
+    second: emojii_hell_147
+  - first:
+      213: -3986400037199294224
+    second: emojii_hell_148
+  - first:
+      213: 6494402430965218424
+    second: emojii_hell_149
+  - first:
+      213: -1873026667483243318
+    second: emojii_hell_150
+  - first:
+      213: -7646627531088281468
+    second: emojii_hell_151
+  - first:
+      213: -5971463315282202794
+    second: emojii_hell_152
+  - first:
+      213: -2901483426779224443
+    second: emojii_hell_153
+  - first:
+      213: -8441590542449138248
+    second: emojii_hell_154
+  - first:
+      213: -2257773593031847196
+    second: emojii_hell_155
+  - first:
+      213: 6745631857401938514
+    second: emojii_hell_156
+  - first:
+      213: 3513787345599988544
+    second: emojii_hell_157
+  - first:
+      213: 2468337952425445474
+    second: emojii_hell_158
+  - first:
+      213: -1299545706312420331
+    second: emojii_hell_159
+  - first:
+      213: 1150415123995635118
+    second: emojii_hell_160
+  - first:
+      213: -1366915185358831454
+    second: emojii_hell_161
+  - first:
+      213: 4707518860135407679
+    second: emojii_hell_162
+  - first:
+      213: 5970811136588230288
+    second: emojii_hell_163
+  - first:
+      213: -1475959427402026987
+    second: emojii_hell_164
+  - first:
+      213: -7463458357292993141
+    second: emojii_hell_165
+  - first:
+      213: -2866944479694166459
+    second: emojii_hell_166
+  - first:
+      213: -6709155817042851275
+    second: emojii_hell_167
+  - first:
+      213: 7711303278416046673
+    second: emojii_hell_168
+  - first:
+      213: -5998229689698968880
+    second: emojii_hell_169
+  - first:
+      213: 6415769490284511044
+    second: emojii_hell_170
+  - first:
+      213: 3190684626090527978
+    second: emojii_hell_171
+  - first:
+      213: 578621148075925032
+    second: emojii_hell_172
+  - first:
+      213: 2890951204945400420
+    second: emojii_hell_173
+  - first:
+      213: 2520480344163132901
+    second: emojii_hell_174
+  - first:
+      213: 647462300367129303
+    second: emojii_hell_175
+  - first:
+      213: 221933614964751241
+    second: emojii_hell_176
+  - first:
+      213: 2665808319085236888
+    second: emojii_hell_177
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: emojii_hell_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1020
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99f631b04e357aa0800000000000000
+      internalID: -6163952067414656612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11ef86b1f8069390800000000000000
+      internalID: -7812046669384523492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 1020
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880938408a9f453d0800000000000000
+      internalID: -3218673333637508984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215ce9b970daa3e50800000000000000
+      internalID: 6789929636401693970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_4
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 1020
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c44e10f987910b0800000000000000
+      internalID: -5757438024289596290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_5
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d031484012b779370800000000000000
+      internalID: 8329261417584923405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_6
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1020
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5986f80253ac50c0800000000000000
+      internalID: -4585610747836987042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_7
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1020
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58523a7d2e2dc4050800000000000000
+      internalID: 5786231492986480005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_8
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1022
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb6b73fed8d2f3730800000000000000
+      internalID: 3980950683245852348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_9
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b978d5ddc52059a10800000000000000
+      internalID: 1915439814390155163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_10
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1020
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f949a25e2bc8820800000000000000
+      internalID: 2921906955588247375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_11
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 1022
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b97eb013f0dda6fc0800000000000000
+      internalID: -3500742703010027621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_12
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 1020
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a3388bc1085c260800000000000000
+      internalID: 7117235646971984523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_13
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28840c75364e53d0800000000000000
+      internalID: -3216055888368072658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_14
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1020
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28ee59c6b2f8e540800000000000000
+      internalID: 5037543050090309679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_15
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 1022
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2088fd50ad3b31d20800000000000000
+      internalID: 3248137505247037442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_16
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1020
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c0266c060598970800000000000000
+      internalID: 8757619326974037032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_17
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 1020
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8a7d7ed33229ae0800000000000000
+      internalID: -1544132973445011211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_18
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 1022
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b15a43de524d680800000000000000
+      internalID: -8731312076843836618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_19
+      rect:
+        serializedVersion: 2
+        x: 1178
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7ed97017876bee0800000000000000
+      internalID: -1245675820066936866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_20
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 1020
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c312c42dffab560800000000000000
+      internalID: 7330452622184365174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_21
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e1c0599ca1598ad0800000000000000
+      internalID: -2699536699883470368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_22
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1020
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4cd95dd7d8975b80800000000000000
+      internalID: -8406082126564697012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_23
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 1020
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45bce7ee10f33340800000000000000
+      internalID: 4842478039884150092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_24
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 1020
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703709e5de52203b0800000000000000
+      internalID: -5547830089543027961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_25
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 1021
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80536dc88918faf50800000000000000
+      internalID: 6894872046725379336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_26
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 1022
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291ac0c64089b6970800000000000000
+      internalID: 8749253845857378706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_27
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 940
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71011741d9ea69f00800000000000000
+      internalID: 1123277146751569943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_28
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 939
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401beacfae09514f0800000000000000
+      internalID: -858620815008157436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 940
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d8a8edc88acead0800000000000000
+      internalID: -2671575155955036793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_30
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 942
+        width: 62
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a223f2f35e6d19e0800000000000000
+      internalID: -1649040581710372185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_31
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 939
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a712b4af42e8a79e0800000000000000
+      internalID: -1622828426244447878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_32
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 939
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c1c4f9de9f7f6050800000000000000
+      internalID: 5795991565687374277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_33
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 939
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7bafc7261d20b880800000000000000
+      internalID: -8597322115469825153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_34
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 939
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4837037c68c513d0800000000000000
+      internalID: -3236460389083957170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_35
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 939
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eca506c47b871750800000000000000
+      internalID: 6275637939418803433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_36
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 939
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0ac09e28a6e6a80800000000000000
+      internalID: -8471716738549112670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_37
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 939
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4f05d2fba26ec80800000000000000
+      internalID: -8293894663168789313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_38
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 939
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c998e0c4c24a0c20800000000000000
+      internalID: 3173422300253428168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_39
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 939
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 568d3e63552b729c0800000000000000
+      internalID: -3951994068931454875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_40
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 939
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada95e954e30d82f0800000000000000
+      internalID: -969114065519142182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_41
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 939
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7e37e563f27c4160800000000000000
+      internalID: 7011105109621292669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_42
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 939
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea41696a74569b80800000000000000
+      internalID: -8388424371200242972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_43
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 940
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac8147beb72a8e150800000000000000
+      internalID: 5902145964783966410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_44
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 942
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67687948d898aa880800000000000000
+      internalID: -8598909297602623882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_45
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 939
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b9ff899bc0ae5500800000000000000
+      internalID: 386923414315596211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_46
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 939
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95846f7363dd34540800000000000000
+      internalID: 4991076036993501273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_47
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 939
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a733b1ff3c487e0800000000000000
+      internalID: -1764069653581956572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_48
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 939
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a9b6e1b2dedede0800000000000000
+      internalID: -1302123947790460335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_49
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 940
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968e15e4ac6c555b0800000000000000
+      internalID: -5380175607624505239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_50
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 942
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0acdbba408fae33e0800000000000000
+      internalID: -2072025812999349088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_51
+      rect:
+        serializedVersion: 2
+        x: 1488
+        y: 941
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ccf9edf8c7f7e20800000000000000
+      internalID: 3350533605144120443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_52
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 939
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269db9adf4a57c290800000000000000
+      internalID: -7870222524790089374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_53
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 939
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83e74b15e9fb00c80800000000000000
+      internalID: -8358470221703119304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_54
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 857
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3751f8286cba28f50800000000000000
+      internalID: 6882252049657828723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_55
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 857
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e2c6ce70205e900800000000000000
+      internalID: 712978349062631022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_56
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 857
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 828a4f01287c6fcf0800000000000000
+      internalID: -218768170436745176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_57
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 857
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9628c7b6ea867fb40800000000000000
+      internalID: 5473958970429047401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_58
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 857
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27c7d4f14e8703050800000000000000
+      internalID: 5778251243089394802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_59
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 858
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b954ef2391e8995f0800000000000000
+      internalID: -749411624099625573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_60
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 857
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7665e75bbea9c00800000000000000
+      internalID: 908297439609776059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_61
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 858
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7193668c949a08e50800000000000000
+      internalID: 6809628770944039191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_62
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 859
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fd8f422db3f3370800000000000000
+      internalID: 8304422011643944739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_63
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 858
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f4d4e8fa9a706f0800000000000000
+      internalID: -718419044070502593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_64
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 857
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 403a51b072659f460800000000000000
+      internalID: 7275941398683427588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_65
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 857
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1204b0e4156460b0800000000000000
+      internalID: -5736348885019524577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_66
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 857
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 296dffc0edd51a070800000000000000
+      internalID: 8115871211780560530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_67
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 857
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a12e0b1bd52c5e0800000000000000
+      internalID: -1890845875783984568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_68
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 857
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f248ff43930234180800000000000000
+      internalID: -9132420189302848465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_69
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 857
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eb11669c74ceca0800000000000000
+      internalID: -5986330874355794399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_70
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 857
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cb35fd50cfe12f0800000000000000
+      internalID: -1000084965077828572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_71
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 857
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a47f41e218f356280800000000000000
+      internalID: -9050758052074686646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_72
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 857
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be853488037d89470800000000000000
+      internalID: 8401701708304177387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_73
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 857
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389b79dbb1dc89e20800000000000000
+      internalID: 3357659041233353091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_74
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 857
+        width: 61
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077e788dcffd03c00800000000000000
+      internalID: 878448204394784624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_75
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 858
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ad0566471a52ef0800000000000000
+      internalID: -133523092632708455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_76
+      rect:
+        serializedVersion: 2
+        x: 1366
+        y: 858
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8e0129d061bc6d0800000000000000
+      internalID: -2969255281779742495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_77
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 857
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8194e3ee766a7580800000000000000
+      internalID: -8828631424331116150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_78
+      rect:
+        serializedVersion: 2
+        x: 1490
+        y: 858
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ef4efae1eb37bc90800000000000000
+      internalID: -7154183641558528028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_79
+      rect:
+        serializedVersion: 2
+        x: 1549
+        y: 857
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d652b7461875524d0800000000000000
+      internalID: -3160023350282345107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_80
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 858
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a028364ed13559330800000000000000
+      internalID: 3716968455315096074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_81
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 778
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e470b9f786659be0800000000000000
+      internalID: -1471156969070889752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_82
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 782
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4722c6746b621a0800000000000000
+      internalID: -6834574966615018332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_83
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 776
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f957267fcf326120800000000000000
+      internalID: 2405555311242336760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_84
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 776
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a620e6972621f2dc0800000000000000
+      internalID: -3661687757875576214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_85
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 776
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a471f3b11766930800000000000000
+      internalID: 4136117669622925861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_86
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 778
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43b4c4367830357f0800000000000000
+      internalID: -625152043252954316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_87
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 776
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236418faba7a1c320800000000000000
+      internalID: 2576524817658365490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_88
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 777
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104489bb783344400800000000000000
+      internalID: 307427332628956161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_89
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 776
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 465369b4277c6c810800000000000000
+      internalID: 1785333596007314788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_90
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 778
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2502143d4442ed530800000000000000
+      internalID: 3881579806860582994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_91
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 776
+        width: 63
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f39586a184cfd90800000000000000
+      internalID: -7062690837366751417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_92
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 776
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631c4e57f728aed70800000000000000
+      internalID: 9073207883241668918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_93
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 776
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d9e4f0b4ef673e0800000000000000
+      internalID: -2056176581515240160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_94
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 778
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05d5a9b32698c2080800000000000000
+      internalID: -9210836082879734448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_95
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 778
+        width: 63
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4bcc74200b302790800000000000000
+      internalID: -7556975302929495217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_96
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 776
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc285b1a9a07af2a0800000000000000
+      internalID: -6702921221522750772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_97
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 776
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb76bd09edbb46aa0800000000000000
+      internalID: -6168599025003305029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_98
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 778
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6494d7eec7accf280800000000000000
+      internalID: -9008102516721891002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_99
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 779
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe48de4d56319d60800000000000000
+      internalID: 7895151396139847416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_100
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 776
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4d8c4ebac80ce90800000000000000
+      internalID: -7007446350282828595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_101
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 778
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd9092de237b0e40800000000000000
+      internalID: 5623715204640579069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_102
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 778
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4173b7a9bd43788a0800000000000000
+      internalID: -6303011035687471340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_103
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 778
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c69f5c918c7d7a50800000000000000
+      internalID: 6520504731618481861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_104
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 778
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929d011158cb91260800000000000000
+      internalID: 7068888369837693225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_105
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 778
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569ca65402f4f87d0800000000000000
+      internalID: -2914023433863247515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_106
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 776
+        width: 123
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6175e2bb9835800800000000000000
+      internalID: 599974612399757026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_107
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 696
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a040ec0ef7337c520800000000000000
+      internalID: 2722201124094215178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_108
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 694
+        width: 247
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fe4c46ee66bc7510800000000000000
+      internalID: 1548312959335026421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_109
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 743
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a956aa54455e4d9c0800000000000000
+      internalID: -3903242826914568806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_110
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 746
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09070be6286d7a90800000000000000
+      internalID: -7314575703418664692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_111
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 747
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 179abea13d84fca70800000000000000
+      internalID: 8849371864333265265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_112
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 743
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f116fa1459880110800000000000000
+      internalID: 1227381892781052401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_113
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 742
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91c75673b8a835060800000000000000
+      internalID: 6941043781242551321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_114
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 694
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2dcf57d417990a0800000000000000
+      internalID: -6874338778698427706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_115
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 694
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19238dbb5e4863c20800000000000000
+      internalID: 3185879908645089937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_116
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 700
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cb76cf339b102b0800000000000000
+      internalID: -5620007227052540889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_117
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 696
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8c6dd8512e8210d0800000000000000
+      internalID: -3453541690363777906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_118
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 694
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16f92b721306a9a0800000000000000
+      internalID: -6222282457255119332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_119
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 695
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9880984240fbfb3f0800000000000000
+      internalID: -882776977427593079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_120
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 695
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33cfe09bf8c4e8d90800000000000000
+      internalID: -7093648182893151181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_121
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 695
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad37721ac8a8d6c0800000000000000
+      internalID: -4118356273383653980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_122
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 694
+        width: 48
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b0770fa3f46b3a0800000000000000
+      internalID: -6650040685204927675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_123
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 694
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efc77a9c0704b3900800000000000000
+      internalID: 665196223130991870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_124
+      rect:
+        serializedVersion: 2
+        x: 1317
+        y: 695
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b38f68ac8616c40800000000000000
+      internalID: 5503795438680554396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_125
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 695
+        width: 40
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250699ca1e24cc970800000000000000
+      internalID: 8776463310869061714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_126
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 694
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0489075f0ee099000800000000000000
+      internalID: 43082030789990464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_127
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 694
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af4bd8d52a290cb0800000000000000
+      internalID: -4897336777748295776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_128
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 694
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8940ab01e5d74f2f0800000000000000
+      internalID: -939988579252566888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_129
+      rect:
+        serializedVersion: 2
+        x: 1618
+        y: 694
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5be49a64b11a9e50800000000000000
+      internalID: 6816780452558596959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_130
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 695
+        width: 55
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a57c0303ebd19800800000000000000
+      internalID: 617516391981675941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_131
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 699
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8b24dddeff35260800000000000000
+      internalID: 7085288035868391613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_132
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 698
+        width: 122
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14a050416f2e10ca0800000000000000
+      internalID: -6052306877683529151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_133
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 704
+        width: 124
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 635e26a75b2a6a7b0800000000000000
+      internalID: -5213300618308688586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_134
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 614
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dbc971c4c6516e40800000000000000
+      internalID: 5647890810758876120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_135
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 658
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda6e3b481d0d150800000000000000
+      internalID: 5895442280112106977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_136
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 614
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79ff48f5d3e6ba230800000000000000
+      internalID: 3651133132788531095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_137
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 614
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c19677cede571660800000000000000
+      internalID: 7356452827255181761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_138
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 614
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a3011f94a21ebfa0800000000000000
+      internalID: -5783164373244509274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_139
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 615
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85adb9627b85b1a30800000000000000
+      internalID: 4187037822221015640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_140
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 613
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0c10cd39793d800800000000000000
+      internalID: 636018633696460992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_141
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 613
+        width: 34
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875b33f3effba6b50800000000000000
+      internalID: 6587288503685723512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_142
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 613
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38f3320c98409a00800000000000000
+      internalID: 761188171914672186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_143
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 620
+        width: 55
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cfcabf86fc51d80800000000000000
+      internalID: -8280484290044822487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_144
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 622
+        width: 62
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14579e74cb6802ec0800000000000000
+      internalID: -3593724359423199935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_145
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 613
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5c8a4fa87e245e0800000000000000
+      internalID: -1926723106564946524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_146
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 615
+        width: 62
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ccdb26352fbbc40800000000000000
+      internalID: 5529279407480228873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_147
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 615
+        width: 36
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 400b9edb31290c7b0800000000000000
+      internalID: -5206000555752050684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_148
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 615
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0d12a79467da8c0800000000000000
+      internalID: -3986400037199294224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_149
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 620
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c7d162a90c02a50800000000000000
+      internalID: 6494402430965218424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_150
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 613
+        width: 154
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: accd3dd6b2ca106e0800000000000000
+      internalID: -1873026667483243318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_151
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 615
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 480c2c726c8b1e590800000000000000
+      internalID: -7646627531088281468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_152
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 614
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fe35fb0c9112da0800000000000000
+      internalID: -5971463315282202794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_153
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 614
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5862421323cdbb7d0800000000000000
+      internalID: -2901483426779224443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_154
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 613
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5a50a802279da80800000000000000
+      internalID: -8441590542449138248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_155
+      rect:
+        serializedVersion: 2
+        x: 1307
+        y: 614
+        width: 52
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2541c11e6caa0e0800000000000000
+      internalID: -2257773593031847196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_156
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 613
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25240063f6c4d9d50800000000000000
+      internalID: 6745631857401938514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_157
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 614
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04300c659fa73c030800000000000000
+      internalID: 3513787345599988544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_158
+      rect:
+        serializedVersion: 2
+        x: 1493
+        y: 613
+        width: 52
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2680fe73a4c414220800000000000000
+      internalID: 2468337952425445474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_159
+      rect:
+        serializedVersion: 2
+        x: 1550
+        y: 613
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5143dddb01617fde0800000000000000
+      internalID: -1299545706312420331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_160
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 613
+        width: 56
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ead2ff9c57817ff00800000000000000
+      internalID: 1150415123995635118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 621
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0899291edb70de0800000000000000
+      internalID: -1366915185358831454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_162
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 532
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30a2d73677745140800000000000000
+      internalID: 4707518860135407679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_163
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 535
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ea94118159cd250800000000000000
+      internalID: 5970811136588230288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 534
+        width: 54
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51030d288b6548be0800000000000000
+      internalID: -1475959427402026987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_165
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 532
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8571a9ca287c6890800000000000000
+      internalID: -7463458357292993141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_166
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 532
+        width: 55
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546ef097f219638d0800000000000000
+      internalID: -2866944479694166459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_167
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 532
+        width: 55
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a4a6eb45a44e2a0800000000000000
+      internalID: -6709155817042851275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_168
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 532
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a2b49b97d040b60800000000000000
+      internalID: 7711303278416046673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_169
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 532
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da9a4090e102cca0800000000000000
+      internalID: -5998229689698968880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_170
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f7235fb54690950800000000000000
+      internalID: 6415769490284511044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_171
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 584
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec0d6033c6974c20800000000000000
+      internalID: 3190684626090527978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_172
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 584
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82e18965edca70800800000000000000
+      internalID: 578621148075925032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_173
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 581
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46212c1ddc8be1820800000000000000
+      internalID: 2890951204945400420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_174
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 532
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e5a239d48b8af220800000000000000
+      internalID: 2520480344163132901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_175
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 532
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da07d2288f3cf800800000000000000
+      internalID: 647462300367129303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_176
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 532
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b31bb6277741300800000000000000
+      internalID: 221933614964751241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: emojii_hell_177
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 532
+        width: 58
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8925b5aca8adef420800000000000000
+      internalID: 2665808319085236888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

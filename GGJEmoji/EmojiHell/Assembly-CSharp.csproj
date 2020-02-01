@@ -49,6 +49,7 @@
      <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoRotate.cs" />
      <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightFlicker.cs" />
      <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightIntensityFade.cs" />
+     <Compile Include="Assets\Scripts\InputManager.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
@@ -608,9 +609,17 @@
       <Project>{33cd4114-5e28-5d06-7e16-f55e7cb12734}</Project>
       <Name>Unity.VSCode.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.2D.SpriteShape.Editor.csproj">
+      <Project>{1fa19577-ada7-40a2-1e0b-d8b9675f68d0}</Project>
+      <Name>Unity.2D.SpriteShape.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.TextMeshPro.Editor.csproj">
       <Project>{8fa87cff-b620-6579-e182-15f8c411fe95}</Project>
       <Name>Unity.TextMeshPro.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Path.Editor.csproj">
+      <Project>{25f6304a-145a-6e4e-82f7-e6b39eae66b3}</Project>
+      <Name>Unity.2D.Path.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="UnityEngine.UI.csproj">
       <Project>{13216f5e-83d4-fa2a-2928-7bbad7114e0e}</Project>
@@ -628,30 +637,6 @@
       <Project>{707248ca-e835-d159-c66c-a1fa6339b17d}</Project>
       <Name>Unity.Rider.Editor</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.2D.Sprite.Editor.csproj">
-      <Project>{8f741747-31f4-0f1c-425f-81cf6b2f6a00}</Project>
-      <Name>Unity.2D.Sprite.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.2D.Tilemap.Editor.csproj">
-      <Project>{ac77c8f7-fba5-083a-46e6-7d88869f8ffc}</Project>
-      <Name>Unity.2D.Tilemap.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.TextMeshPro.csproj">
-      <Project>{e1da0094-042a-7636-bc78-902bb6699de0}</Project>
-      <Name>Unity.TextMeshPro</Name>
-    </ProjectReference>
-    <ProjectReference Include="UnityEditor.UI.csproj">
-      <Project>{bcf8fafc-7bb2-bccb-ac4d-2a5aeb32d4b7}</Project>
-      <Name>UnityEditor.UI</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.2D.SpriteShape.Editor.csproj">
-      <Project>{1fa19577-ada7-40a2-1e0b-d8b9675f68d0}</Project>
-      <Name>Unity.2D.SpriteShape.Editor</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.2D.Path.Editor.csproj">
-      <Project>{25f6304a-145a-6e4e-82f7-e6b39eae66b3}</Project>
-      <Name>Unity.2D.Path.Editor</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.Mathematics.csproj">
       <Project>{15d387cb-9c1c-abab-588f-07a02c959af0}</Project>
       <Name>Unity.Mathematics</Name>
@@ -660,9 +645,17 @@
       <Project>{c3f08f7b-6c05-17f2-930e-3c03adee3733}</Project>
       <Name>Unity.InternalAPIEngineBridge.001</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.2D.Sprite.Editor.csproj">
+      <Project>{8f741747-31f4-0f1c-425f-81cf6b2f6a00}</Project>
+      <Name>Unity.2D.Sprite.Editor</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.2D.Common.Runtime.csproj">
       <Project>{2e21fbba-c21b-c32c-a0e7-7a8fa2dd8d91}</Project>
       <Name>Unity.2D.Common.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Tilemap.Editor.csproj">
+      <Project>{ac77c8f7-fba5-083a-46e6-7d88869f8ffc}</Project>
+      <Name>Unity.2D.Tilemap.Editor</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.2D.SpriteShape.Runtime.csproj">
       <Project>{47be16e9-f5a7-3046-ba2b-0eeba9def8e2}</Project>
@@ -672,6 +665,10 @@
       <Project>{82f82e4e-5159-f4e3-ddae-5bf388cf310a}</Project>
       <Name>Unity.Mathematics.Editor</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.TextMeshPro.csproj">
+      <Project>{e1da0094-042a-7636-bc78-902bb6699de0}</Project>
+      <Name>Unity.TextMeshPro</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.2D.Common.Editor.csproj">
       <Project>{02960948-94c5-1acd-206d-cd661a3d1ed2}</Project>
       <Name>Unity.2D.Common.Editor</Name>
@@ -679,6 +676,10 @@
     <ProjectReference Include="Unity.InternalAPIEditorBridge.001.csproj">
       <Project>{76e3c9e8-d388-f46e-58b9-4a1844823f7a}</Project>
       <Name>Unity.InternalAPIEditorBridge.001</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.UI.csproj">
+      <Project>{bcf8fafc-7bb2-bccb-ac4d-2a5aeb32d4b7}</Project>
+      <Name>UnityEditor.UI</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
