@@ -6,9 +6,7 @@ public class CollidersScript : MonoBehaviour
 {
     public float colThickness = 4f;
     public float zPosition = 0f;
-    public GameObject cloneMoji;
-
-    private EmojiFactory factory;
+    public EmojiFactory factory;
     private static Vector2 screenSize;
  
     void Start ()
@@ -52,8 +50,6 @@ public class CollidersScript : MonoBehaviour
         colliders["Bottom"].gameObject.tag = "despawn";
 
         factory = colliders["Top"].gameObject.AddComponent<EmojiFactory>();
-        //factory.cloneMoji = cloneMoji;
-        //factory.MakeEmoji();
     }
 
     public EmojiFactory getEmojiFactory()

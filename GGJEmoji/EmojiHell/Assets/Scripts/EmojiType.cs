@@ -6,6 +6,7 @@ public enum EmojiType
 {
     GOOD,
     BAD,
-    
-    NEUTRAL
+    NEUTRAL,
+    BADOUT,
+    GOODOUT
 }
