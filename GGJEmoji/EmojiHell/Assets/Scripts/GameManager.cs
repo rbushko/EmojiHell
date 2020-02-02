@@ -17,12 +17,13 @@ public class GameManager : MonoBehaviour
     public GameObject gameScreen;
     public GameObject gameObjects;
     public GameObject endScreen;
+    public TextMeshProUGUI endReportText;
 
 
     //the particle effects and sound effects
-    public List<GameObject> particleEffects;
     public List<AudioClip> audioClips;
-    private AudioSource audioPlayer;
+    public AudioSource audioPlayer;
+    private AudioSource goodBadAudioPlayer;
 
     //to keep track of the emojis that need taken care of
     private Queue<EmojiHelper> emojis = new Queue<EmojiHelper>();
@@ -40,6 +41,9 @@ public class GameManager : MonoBehaviour
     public Image curEmojiImage;
 
     private static int score;
+    private int correctCount;
+    private int wrongCount;
+    private int wordsTyped;
 
     void Start()
     {
@@ -51,6 +55,7 @@ public class GameManager : MonoBehaviour
         nextChars.Add(" ");
         timeLeft = timePerGame;
         score = 0;
+        goodBadAudioPlayer = GetComponent<AudioSource>();
     }
 
     public void UpdateScore(int toAdd)
@@ -65,7 +70,10 @@ public class GameManager : MonoBehaviour
         endScreen.SetActive(false);
         gameScreen.SetActive(true);
         gameObjects.SetActive(true);
+        emojis.Clear();
         timeLeft = timePerGame;
+        correctCount = 0;
+        wrongCount = 0;
         UpdateScore(-score);
         StartCoroutine("Timer");
     }
@@ -75,7 +83,15 @@ public class GameManager : MonoBehaviour
         endScreen.SetActive(true);
         gameScreen.SetActive(false);
         gameObjects.SetActive(false);
+        GenerateEndReport();
+        audioPlayer.clip = audioClips[0];
+        audioPlayer.Play();
         StopCoroutine("Timer");
+    }
+
+    private void GenerateEndReport()
+    {
+        endReportText.text = "You scored: " + score + "\n" + "Correct: " + correctCount + "\n" + "Incorrect: " + wrongCount;
     }
 
     IEnumerator Timer()
@@ -86,6 +102,11 @@ public class GameManager : MonoBehaviour
             if (timeLeft % 5 == 0)
             {
                 factory.MakeEmojiInput();
+            }
+            if (timeLeft == 20)
+            {
+                audioPlayer.clip = audioClips[1];
+                audioPlayer.Play();
             }
             yield return new WaitForSeconds(1.0f);
             timeLeft--;
@@ -175,11 +196,16 @@ public class GameManager : MonoBehaviour
             if (curEmoji.GetType() == EmojiType.GOOD)
             {
                 factory.MakeEmojiOutput(1);
+                goodBadAudioPlayer.clip = audioClips[3];
+                goodBadAudioPlayer.Play();
             }
             else
             {
                 factory.MakeEmojiOutput(0);
+                goodBadAudioPlayer.clip = audioClips[2];
+                goodBadAudioPlayer.Play();
             }
+            correctCount++;
         }
         else
         {
@@ -188,11 +214,16 @@ public class GameManager : MonoBehaviour
             if (curEmoji.GetType() == EmojiType.GOOD)
             {
                 factory.MakeEmojiOutput(0);
+                goodBadAudioPlayer.clip = audioClips[2];
+                goodBadAudioPlayer.Play();
             }
             else
             {
                 factory.MakeEmojiOutput(1);
+                goodBadAudioPlayer.clip = audioClips[3];
+                goodBadAudioPlayer.Play();
             }
+            wrongCount++;
         }
 
         NextEmoji();

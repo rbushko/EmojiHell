@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.EventSystems;
 using TMPro;
 
 public class InputManager : MonoBehaviour
@@ -12,6 +13,15 @@ public class InputManager : MonoBehaviour
     void Start()
     {
         
+    }
+
+    void Update()
+    {
+        if (!input.isFocused)
+        {
+            EventSystem.current.SetSelectedGameObject(input.gameObject, null);
+            input.OnPointerClick(new PointerEventData(EventSystem.current));
+        }
     }
 
     public void GetInput(string newInput)

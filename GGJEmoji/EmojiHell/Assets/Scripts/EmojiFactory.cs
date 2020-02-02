@@ -7,6 +7,7 @@ public class EmojiFactory : MonoBehaviour
 {
     public GameObject cloneMoji;
     public List<Transform> outputTransforms; 
+    public List<GameObject> particleEffects;
 
     private System.Random rand;
 
@@ -72,6 +73,8 @@ public class EmojiFactory : MonoBehaviour
     {
         EmojiType type = (EmojiType) (EmojiType.BADOUT + isGood);
         GameObject newEmoji = Instantiate(cloneMoji, outputTransforms[isGood].position, Quaternion.identity);
+        Vector3 temp = new Vector3(outputTransforms[isGood].position.x, outputTransforms[isGood].position.y - 1f + (2*isGood), 0);
+        Instantiate(particleEffects[isGood], temp, Quaternion.identity);
         Vector3 vel = new Vector3(0,0,0);
         if (isGood == 0)
         {
