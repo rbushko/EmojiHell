@@ -6,12 +6,14 @@ public class EmojiHelper : MonoBehaviour
 {
     private EmojiType type;
     private List<string> selections;
+    private int correctSelectionIndex;
 
-    public void Init(EmojiType type, List<string> selections, Vector3 velocity)
+    public void Init(EmojiType type, List<string> selections, Vector3 velocity, int correctSelectionIndex)
     {
         this.type = type;
         this.selections = selections;
         this.GetComponent<Rigidbody2D>().velocity = velocity;
+        this.correctSelectionIndex = correctSelectionIndex;
         SetSprite();
     }
 
@@ -21,10 +23,10 @@ public class EmojiHelper : MonoBehaviour
         switch(type)
         {
             case EmojiType.GOOD:
-                spriteRenderer.sprite = AssetManager.GetEmoji(10);
+                spriteRenderer.sprite = AssetManager.GetGoodEmoji();
                 return;
             case EmojiType.BAD:
-                spriteRenderer.sprite = AssetManager.GetEmoji(90);
+                spriteRenderer.sprite = AssetManager.GetBadEmoji();
                 return;
             case EmojiType.GOODOUT:
                 spriteRenderer.sprite = AssetManager.GetEmoji(2);
@@ -38,12 +40,45 @@ public class EmojiHelper : MonoBehaviour
         }
     }
 
+    public EmojiType GetType()
+    {
+        return type;
+    }
+
+    public List<string> GetChoices()
+    {
+        return selections;
+    }
+
+    public int GetCorrectSelectionIndex()
+    {
+        return correctSelectionIndex;
+    }
+
+    public void Destroy()
+    {
+        Destroy(gameObject);
+    }
+
     //set the emoji to not be active if it exits a despawn barrier
     void OnTriggerExit2D(Collider2D col)
     {
         if (col.tag == "despawn")
         {
+            //if the emoji overflowed, then penalize the player
+            if (type == EmojiType.GOOD || type == EmojiType.BAD)
+            {
+                GameManager.g.UpdateScore(-1);
+            }
             Destroy(gameObject);
+        }
+    }
+
+    void OnTriggerEnter2D(Collider2D col)
+    {
+        if (col.tag == "queue")
+        {
+            GameManager.g.AddEmoji(this);
         }
     }
 }

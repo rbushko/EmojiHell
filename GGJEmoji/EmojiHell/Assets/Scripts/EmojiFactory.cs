@@ -8,9 +8,6 @@ public class EmojiFactory : MonoBehaviour
     public GameObject cloneMoji;
     public List<Transform> outputTransforms; 
 
-    private List<string> goodChoices = new List<string>();
-    private List<string> badChoices = new List<string>();
-
     private System.Random rand;
 
     public float colThickness = 4f;
@@ -20,6 +17,7 @@ public class EmojiFactory : MonoBehaviour
 
     private void Start() 
     {
+
         rand = new System.Random();
         //Create a Dictionary to contain all our Objects/Transforms
         colliders = new Dictionary<string,Transform>();
@@ -62,11 +60,11 @@ public class EmojiFactory : MonoBehaviour
     public void MakeEmojiInput()
     {
         EmojiType type = (EmojiType) rand.Next(2);
-
-        //List<string> choices = GetChoiceList(type);
-        List<string> choices = null;
+        List<string> choices = new List<string>();
+        int indx = GetChoiceList(type, choices);
+        //List<string> choices = null;
         GameObject newEmoji = Instantiate(cloneMoji, colliders["Top"].position, Quaternion.identity);
-        newEmoji.GetComponent<EmojiHelper>().Init(type, choices, new Vector3(rand.Next(-1,1), 0, 0));
+        newEmoji.GetComponent<EmojiHelper>().Init(type, choices, new Vector3(rand.Next(-1,1), 0, 0), indx);
     }
 
     //takes in true for if the emoji was given a good fate and false if given a bad fate
@@ -77,38 +75,39 @@ public class EmojiFactory : MonoBehaviour
         Vector3 vel = new Vector3(0,0,0);
         if (isGood == 0)
         {
-            vel = new Vector3(-2, 0, 0);
+            vel = new Vector3(2, 0, 0);
         }
         else
         {
-            vel = new Vector3(2, 0, 0);
+            vel = new Vector3(-2, 25, 0);
         }
         //newEmoji.transform = outputTransforms[isGood];
-        newEmoji.GetComponent<EmojiHelper>().Init(type, null, vel);
+        newEmoji.GetComponent<EmojiHelper>().Init(type, null, vel, -1);
     }
 
-    private List<string> GetChoiceList(EmojiType type)
+    private int GetChoiceList(EmojiType type, List<string> choices)
     {
-        List<string> choices = new List<string>();
         List<string> otherOptions;
+
+        string toAdd = "";
         
         if (type == EmojiType.GOOD)
         {
-            choices.Add(goodChoices[rand.Next(goodChoices.Count)]);
-            otherOptions = badChoices;
+            toAdd = AssetManager.GetRandomGoodItem();
+            otherOptions = AssetManager.GetBadList();
         }
         else
         {
-            choices.Add(badChoices[rand.Next(badChoices.Count)]);
-            otherOptions = goodChoices;
+            toAdd = AssetManager.GetRandomBadItem();
+            otherOptions = AssetManager.GetGoodList();
         }
 
-        
         // Create a list of 4 choices with unique first letters
-        while (choices.Count < 4)
+        while (choices.Count < 3)
         {
             bool addPossible = true;
             string possibleOption = otherOptions[rand.Next(otherOptions.Count)];
+            /*
             foreach (string choice in choices)
             {
                 // If they have the same first character, don't add it
@@ -117,6 +116,7 @@ public class EmojiFactory : MonoBehaviour
                     addPossible = false;
                 }
             }
+            */
 
             if (addPossible)
             {
@@ -124,6 +124,9 @@ public class EmojiFactory : MonoBehaviour
             }
         }
 
-        return choices;
+        int correctIndx = rand.Next(3);
+        choices.Insert(correctIndx, toAdd);
+
+        return correctIndx;
     }
 }

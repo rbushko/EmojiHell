@@ -55,6 +55,7 @@
      <Compile Include="Assets\Scripts\EmojiHelper.cs" />
      <Compile Include="Assets\Scripts\EmojiType.cs" />
      <Compile Include="Assets\Scripts\FullScreenBackgroundScript.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
      <Compile Include="Assets\Scripts\InputManager.cs" />
      <Compile Include="Assets\Scripts\TextOptionHelper.cs" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />

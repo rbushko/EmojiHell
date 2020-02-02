@@ -31,7 +31,7 @@ public class TextOptionHelper : MonoBehaviour
 
     public string nextChar()
     {
-        return curString.Substring(position-1, position);
+        return curString[position-1] + "";
     }
 
     public bool isComplete()

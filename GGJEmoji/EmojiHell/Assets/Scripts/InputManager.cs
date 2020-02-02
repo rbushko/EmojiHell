@@ -7,14 +7,21 @@ public class InputManager : MonoBehaviour
 {
     public TMP_InputField input;
     private List<TextOptionHelper> selections;
-    //private int selectionIndex = string.Empty;
+    private int selectionIndex = 0;
 
     void Start()
     {
         
     }
-/*
-    public void NewInput(List<string> selections)
+
+    public void GetInput(string newInput)
+    {
+        GameManager.g.CheckInput(newInput);
+        input.text = string.Empty;
+        
+    }
+
+    public void NewInput(string selections)
     {
         // Reset text input and currently typed word
         input.text = string.Empty;
@@ -32,7 +39,7 @@ public class InputManager : MonoBehaviour
             // Find the word they are trying to type
             for (int i = 0; i < selections.Count; i++)
             {
-                if (selections[i].IndexOf(newString) == 0)
+                if (selections[i].nextChar() == newString)
                 {
                     // If we have found the word they're typing,
                     // go ahead and return
@@ -60,7 +67,7 @@ public class InputManager : MonoBehaviour
     public void OnSubmit(string finalString)
     {
         // Submit the score
-        NewInput(selections);
+        //NewInput(selections);
     }
-    */
+    
 }

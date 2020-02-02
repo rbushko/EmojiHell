@@ -5,9 +5,9 @@ using UnityEngine;
 public class AssetManager : MonoBehaviour
 {
     private static Dictionary<int, Sprite> emojis = new Dictionary<int, Sprite>();
-
-    private static List<string> goodList = new List<string>();
-    private static List<string> badList = new List<string>();
+    private static List<string> goodList;
+    private static List<string> badList;
+    private static System.Random rand;
 
     // Start is called before the first frame update
     void Start()
@@ -19,15 +19,48 @@ public class AssetManager : MonoBehaviour
             emojis.Add(emojiNum, s);
         }
 
-        TextAsset tempList = Resources.LoadAll<TextAsset>("Lists/goodlist.txt");
-        goodList = sourceTexts.text.Split("\n"[0]);
+        rand = new System.Random();
 
-        tempList = Resources.LoadAll<TextAsset>("Lists/badlist.txt");
-        badList = sourceTexts.text.Split("\n"[0]);
+        TextAsset tempList = Resources.Load<TextAsset>("Lists/goodlist");
+        goodList = new List<string>(tempList.text.Split("\n"[0]));
+
+        tempList = Resources.Load<TextAsset>("Lists/badlist");
+        badList = new List<string>(tempList.text.Split("\n"[0]));
     }
 
     public static Sprite GetEmoji(int emojiNum)
     {
         return emojis[emojiNum];
+    }
+
+    //gets the angel emoji
+    public static Sprite GetGoodEmoji()
+    {
+        return emojis[10];
+    }
+    //gets the devil emoji
+    public static Sprite GetBadEmoji()
+    {
+        return emojis[90];
+    }
+
+    public static List<string> GetGoodList()
+    {
+        return goodList;
+    }
+
+    public static List<string> GetBadList()
+    {
+        return badList;
+    }
+
+    public static string GetRandomGoodItem()
+    {
+        return goodList[rand.Next(goodList.Count)];
+    }
+
+    public static string GetRandomBadItem()
+    {
+        return badList[rand.Next(badList.Count)];
     }
 }
