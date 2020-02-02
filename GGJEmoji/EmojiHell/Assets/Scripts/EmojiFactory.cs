@@ -107,16 +107,6 @@ public class EmojiFactory : MonoBehaviour
         {
             bool addPossible = true;
             string possibleOption = otherOptions[rand.Next(otherOptions.Count)];
-            /*
-            foreach (string choice in choices)
-            {
-                // If they have the same first character, don't add it
-                if (choice[0] == possibleOption[0])
-                {
-                    addPossible = false;
-                }
-            }
-            */
 
             if (addPossible)
             {

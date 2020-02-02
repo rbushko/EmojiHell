@@ -63,11 +63,5 @@ public class InputManager : MonoBehaviour
             }
         }
     }
-
-    public void OnSubmit(string finalString)
-    {
-        // Submit the score
-        //NewInput(selections);
-    }
     
 }
