@@ -7,13 +7,13 @@ public class InputManager : MonoBehaviour
 {
     public TMP_InputField input;
     private List<TextOptionHelper> selections;
-    private int selectionIndex = string.Empty;
+    //private int selectionIndex = string.Empty;
 
     void Start()
     {
         
     }
-
+/*
     public void NewInput(List<string> selections)
     {
         // Reset text input and currently typed word
@@ -21,7 +21,7 @@ public class InputManager : MonoBehaviour
         selectionIndex = -1;
 
         // Swap in new list of options to type
-        this.selections = selections;
+        //this.selections = selections;
     }
 
     public void ValidateText(string newString)
@@ -62,4 +62,5 @@ public class InputManager : MonoBehaviour
         // Submit the score
         NewInput(selections);
     }
+    */
 }

@@ -14,6 +14,15 @@ TextureImporter:
   - first:
       213: 814280072305047809
     second: right
+  - first:
+      213: -2608482617360120443
+    second: main
+  - first:
+      213: 2251095672575826311
+    second: right
+  - first:
+      213: 2711673718648917747
+    second: left
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -98,22 +107,43 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: top
+      name: main
       rect:
         serializedVersion: 2
-        x: 666
-        y: 1736
-        width: 620
-        height: 92
+        x: 292
+        y: 469
+        width: 2312
+        height: 1427
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 07b725fa934811ca0800000000000000
-      internalID: -6047907441292444816
+      spriteID: 585087d31eecccbd0800000000000000
+      internalID: -2608482617360120443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Meat-2_1
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 88
+        width: 541
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7891d4f569f7d3f10800000000000000
+      internalID: 2251095672575826311
       vertices: []
       indices: 
       edges: []
@@ -122,61 +152,19 @@ TextureImporter:
       name: left
       rect:
         serializedVersion: 2
-        x: 127
-        y: 981
-        width: 106
-        height: 395
+        x: 1633
+        y: 79
+        width: 527
+        height: 197
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ef701d4d974cf4c50800000000000000
-      internalID: 6651751202190067710
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: main
-      rect:
-        serializedVersion: 2
-        x: 290
-        y: 826
-        width: 1355
-        height: 865
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: eced4e92ed35deb10800000000000000
-      internalID: 2012356822155189966
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: right
-      rect:
-        serializedVersion: 2
-        x: 1690
-        y: 1011
-        width: 139
-        height: 437
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 109fb695967ec4b00800000000000000
-      internalID: 814280072305047809
+      spriteID: 3fec4da41ecc1a520800000000000000
+      internalID: 2711673718648917747
       vertices: []
       indices: 
       edges: []
