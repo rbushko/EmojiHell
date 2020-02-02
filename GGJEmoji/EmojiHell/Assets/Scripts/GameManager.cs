@@ -64,6 +64,11 @@ public class GameManager : MonoBehaviour
         scoreText.text = "Score: " + score;
     }
 
+    public void UpdateWordsTyped(int toAdd)
+    {
+        wordsTyped += toAdd;
+    }
+
     public void StartGame()
     {
         startScreen.SetActive(false);
@@ -229,6 +234,9 @@ public class GameManager : MonoBehaviour
             wrongCount++;
         }
 
+        string typedString = curEmoji.GetChoices()[finalIndex];
+        UpdateWordsTyped(typedString.Split(' ').Length);
+        
         NextEmoji();
     }
 }
