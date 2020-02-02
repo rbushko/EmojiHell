@@ -111,6 +111,15 @@ public class EmojiFactory : MonoBehaviour
             bool addPossible = true;
             string possibleOption = otherOptions[rand.Next(otherOptions.Count)];
 
+            // Don't allow duplicate options
+            foreach (string choice in choices)
+            {
+                if (choice.Equals(possibleOption))
+                {
+                    addPossible = false;
+                }
+            }
+
             if (addPossible)
             {
                 choices.Add(possibleOption);
