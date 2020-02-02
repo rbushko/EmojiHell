@@ -251,10 +251,10 @@ RectTransform:
   m_Father: {fileID: 1813051388}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0}
-  m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 25}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchorMin: {x: 0.3, y: 0}
+  m_AnchorMax: {x: 0, y: 0}
+  m_AnchoredPosition: {x: 168, y: 25}
+  m_SizeDelta: {x: 344, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &70699557
 MonoBehaviour:
@@ -339,8 +339,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 3335693546606054959, guid: 590ae42f7ead37843b7f2501d4c27b69,
+    type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -812,15 +813,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: Return to Menu
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 544a47549fe55f545be46f84fb82dae9, type: 2}
+  m_sharedMaterial: {fileID: -9011063154975835676, guid: 544a47549fe55f545be46f84fb82dae9,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -838,10 +840,10 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 24
+  m_fontSize: 38.8
   m_fontSizeBase: 24
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -1517,7 +1519,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 6be4664415533e046a675dafe497d30c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: b644c2d297c098c45bb88a96b60206d1, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -4762,15 +4764,16 @@ MonoBehaviour:
       m_Calls: []
   m_text: Restart
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
-  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 544a47549fe55f545be46f84fb82dae9, type: 2}
+  m_sharedMaterial: {fileID: -9011063154975835676, guid: 544a47549fe55f545be46f84fb82dae9,
+    type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
   m_fontColor32:
     serializedVersion: 2
-    rgba: 4281479730
-  m_fontColor: {r: 0.19607843, g: 0.19607843, b: 0.19607843, a: 1}
+    rgba: 4294967295
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -4788,10 +4791,10 @@ MonoBehaviour:
   m_outlineColor:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontSize: 24
+  m_fontSize: 72
   m_fontSizeBase: 24
   m_fontWeight: 400
-  m_enableAutoSizing: 0
+  m_enableAutoSizing: 1
   m_fontSizeMin: 18
   m_fontSizeMax: 72
   m_fontStyle: 0
@@ -5240,8 +5243,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 3335693546606054959, guid: 590ae42f7ead37843b7f2501d4c27b69,
+    type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -5844,7 +5848,8 @@ MonoBehaviour:
   endReportText: {fileID: 1969146780}
   audioClips:
   - {fileID: 8300000, guid: 6be4664415533e046a675dafe497d30c, type: 3}
-  - {fileID: 8300000, guid: 6be4664415533e046a675dafe497d30c, type: 3}
+  - {fileID: 8300000, guid: 8ee43f4c71ff41f43851207804a3cbfa, type: 3}
+  - {fileID: 8300000, guid: b644c2d297c098c45bb88a96b60206d1, type: 3}
   - {fileID: 8300000, guid: c5ed696591e631b4d8bc037ea5fcb064, type: 3}
   - {fileID: 8300000, guid: 6746eb530d3358c4bb7954d2ae24949d, type: 3}
   audioPlayer: {fileID: 519420034}
@@ -6888,7 +6893,7 @@ PrefabInstance:
     - target: {fileID: 4881448221501906899, guid: a313f7320176ed94795c97f82e668b4b,
         type: 3}
       propertyPath: m_firstOverflowCharacterIndex
-      value: 7
+      value: -1
       objectReference: {fileID: 0}
     - target: {fileID: 4881448221501906899, guid: a313f7320176ed94795c97f82e668b4b,
         type: 3}
@@ -6903,7 +6908,7 @@ PrefabInstance:
     - target: {fileID: 4881448221501906899, guid: a313f7320176ed94795c97f82e668b4b,
         type: 3}
       propertyPath: m_fontSize
-      value: 25
+      value: 31
       objectReference: {fileID: 0}
     - target: {fileID: 4881448221501906899, guid: a313f7320176ed94795c97f82e668b4b,
         type: 3}

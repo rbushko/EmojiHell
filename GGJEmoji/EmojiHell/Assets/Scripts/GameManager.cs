@@ -71,9 +71,12 @@ public class GameManager : MonoBehaviour
         gameScreen.SetActive(true);
         gameObjects.SetActive(true);
         emojis.Clear();
+        audioPlayer.clip = audioClips[0];
+        audioPlayer.Play();
         timeLeft = timePerGame;
         correctCount = 0;
         wrongCount = 0;
+        wordsTyped = 0;
         UpdateScore(-score);
         StartCoroutine("Timer");
     }
@@ -84,14 +87,14 @@ public class GameManager : MonoBehaviour
         gameScreen.SetActive(false);
         gameObjects.SetActive(false);
         GenerateEndReport();
-        audioPlayer.clip = audioClips[0];
+        audioPlayer.clip = audioClips[2];
         audioPlayer.Play();
         StopCoroutine("Timer");
     }
 
     private void GenerateEndReport()
     {
-        endReportText.text = "You scored: " + score + "\n" + "Correct: " + correctCount + "\n" + "Incorrect: " + wrongCount;
+        endReportText.text = "You scored: " + score + "\nCorrect: " + correctCount + "\nIncorrect: " + wrongCount + "\nWords per minute: " + (float)wordsTyped/(float)(timePerGame/60);
     }
 
     IEnumerator Timer()
@@ -196,13 +199,13 @@ public class GameManager : MonoBehaviour
             if (curEmoji.GetType() == EmojiType.GOOD)
             {
                 factory.MakeEmojiOutput(1);
-                goodBadAudioPlayer.clip = audioClips[3];
+                goodBadAudioPlayer.clip = audioClips[4];
                 goodBadAudioPlayer.Play();
             }
             else
             {
                 factory.MakeEmojiOutput(0);
-                goodBadAudioPlayer.clip = audioClips[2];
+                goodBadAudioPlayer.clip = audioClips[3];
                 goodBadAudioPlayer.Play();
             }
             correctCount++;
@@ -214,13 +217,13 @@ public class GameManager : MonoBehaviour
             if (curEmoji.GetType() == EmojiType.GOOD)
             {
                 factory.MakeEmojiOutput(0);
-                goodBadAudioPlayer.clip = audioClips[2];
+                goodBadAudioPlayer.clip = audioClips[3];
                 goodBadAudioPlayer.Play();
             }
             else
             {
                 factory.MakeEmojiOutput(1);
-                goodBadAudioPlayer.clip = audioClips[3];
+                goodBadAudioPlayer.clip = audioClips[4];
                 goodBadAudioPlayer.Play();
             }
             wrongCount++;

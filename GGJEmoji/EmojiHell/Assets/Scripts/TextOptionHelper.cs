@@ -9,7 +9,7 @@ public class TextOptionHelper : MonoBehaviour
 {
     public TextMeshProUGUI text;
     private string color1 = "<color=\"red\">";
-    private string color2 = "<color=\"white\">";
+    private string color2 = "<color=\"black\">";
     private string curString;
     private int position;
 
